@@ -15,3 +15,15 @@ header, footer {
     text-align: center;
     padding: 1.25rem;
 }
+header img {
+    float: right;
+    box-shadow: 5px gray;
+}
+
+footer a {
+    color: white;
+}
+footer div {
+    color: yellow;
+
+}
