@@ -4,9 +4,9 @@ body {
     font-style: Impact, Charcoal, sans-serif;
 }
 
-header, nav, main, footer {
+header, main, footer {
     margin: 1.25rem auto;
-    max-width: 760px;
+    max-width: 550px;
 }
 
 header, footer {
@@ -24,7 +24,10 @@ header img {
     float: right;
     box-shadow: 5px 5px 5px 5px gray;
 }
-
+hr {
+    height: 1px;
+    overflow: visible;
+}
 footer a {
     color: white;
 }
