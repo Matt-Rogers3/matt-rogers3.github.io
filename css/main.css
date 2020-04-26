@@ -8,7 +8,8 @@ header, nav, main, footer {
     max-width: 760px;
 }
 
-header {
+header, footer {
+    border-radius: 10px;
     background-color: blue;
     color: white;
     text-align: center;
