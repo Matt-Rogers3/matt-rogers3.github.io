@@ -20,7 +20,7 @@ header {
     padding: 10px 10px 10px 10px;
 }
 h1 {
-    padding-left: -10%;
+    margin-left: -10%;
 }
 header img {
     width:25%;
