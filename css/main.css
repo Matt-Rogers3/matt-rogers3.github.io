@@ -16,13 +16,14 @@ header, footer {
     padding: 1.25rem;
 }
 header {
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr
 }
 header h1 {
     grid-column: 1/3;
 }
 header img {
-    width: 100%;
+    max-width: 100%;
     grid-column: 3/4;
     float: right;
     box-shadow: 5px gray;
